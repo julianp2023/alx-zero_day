@@ -1,2 +1,2 @@
 Root README
-i just edited my readme file
+I just edited my readme file
